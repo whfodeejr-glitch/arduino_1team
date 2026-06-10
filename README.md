@@ -104,7 +104,7 @@
 
 | 인식 화면 | 아두이노 동작 |
 |-----------|--------------|
-| ![인식]([images/result_detection.png](https://github.com/whfodeejr-glitch/arduino_1team/blob/main/images%3Aresult_detection.png.jpeg)) | ![동작]([images/result_arduino.png](https://github.com/whfodeejr-glitch/arduino_1team/blob/main/images%3Aresult_arduino.png.jpeg)) |
+| ![인식]([images/result_detection.png](https://github.com/whfodeejr-glitch/arduino_1team/blob/main/images%3Aresult_detection.png.jpeg)) | ![동작](https://github.com/whfodeejr-glitch/arduino_1team/blob/main/images-result_arduino.png.png) |
 
 ---
 
