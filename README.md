@@ -104,13 +104,14 @@
 
 | 인식 화면 | 아두이노 동작 |
 |-----------|--------------|
-| ![인식](images/result_detection.png) | ![동작](images/result_arduino.png) |
+| ![인식]([images/result_detection.png](https://github.com/whfodeejr-glitch/arduino_1team/blob/main/images%3Aresult_detection.png.jpeg)) | ![동작]([images/result_arduino.png](https://github.com/whfodeejr-glitch/arduino_1team/blob/main/images%3Aresult_arduino.png.jpeg)) |
 
 ---
 
 ## 시연 영상
 
-[![시연 영상 썸네일](images/thumbnail.png)](https://youtu.be/-Xb7_nX4Qvw?si=-UC0EP1wMBF6ZZTY)
+[![시연 영상 썸네일]([images/thumbnail.png](https://github.com/whfodeejr-glitch/arduino_1team/blob/main/images%3Athumbnail.png
+))](https://youtu.be/-Xb7_nX4Qvw?si=-UC0EP1wMBF6ZZTY)
 
 > 클릭하면 YouTube 영상으로 이동합니다.  
 ---
