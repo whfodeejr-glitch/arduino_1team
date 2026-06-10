@@ -26,11 +26,11 @@
 ## 팀원 소개
 | 이름 | 역할 | GitHub |
 |------|------|--------|
-| 김현경 | 데이터 수집 및 모델 학습 | [@username](https://github.com/1i9ht2u-svg) |
-| 이서영 | 아두이노 하드웨어 설계 및 코딩 | [@username](https://github.com/whfodeejr-glitch) |
-| 임정연 | 데이터 수집 및 모델 학습 | [@username](https://github.com/aawjddus070830-hub) |
-| 황보명훈 | 데이터 수집 및 모델 학습 | [@username](https://github.com/hbmh-coder) |
-| 황지민 | 아두이노 하드웨어 설계 및 코딩 | [@username](https://github.com/Jimin110) |
+| 김현경 | 데이터 수집 및 모델 학습 | [@1i9ht2u-svg](https://github.com/1i9ht2u-svg) |
+| 이서영 | 아두이노 하드웨어 설계 및 코딩 | [@whfodeejr-glitch](https://github.com/whfodeejr-glitch) |
+| 임정연 | 데이터 수집 및 모델 학습 | [@aawjddus070830-hub](https://github.com/aawjddus070830-hub) |
+| 황보명훈 | 데이터 수집 및 모델 학습 | [@hbmh-coder](https://github.com/hbmh-coder) |
+| 황지민 | 아두이노 하드웨어 설계 및 코딩 | [@Jimin110](https://github.com/Jimin110) |
 
 
 ## 시스템 구조
