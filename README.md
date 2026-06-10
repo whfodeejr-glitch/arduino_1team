@@ -110,8 +110,7 @@
 
 ## 시연 영상
 
-[![시연 영상 썸네일]([[images/thumbnail.png](https://github.com/whfodeejr-glitch/arduino_1team/blob/main/IMG_7655.png)](https://github.com/whfodeejr-glitch/arduino_1team/blob/main/images%3Athumbnail.png
-))](https://youtu.be/-Xb7_nX4Qvw?si=-UC0EP1wMBF6ZZTY)
+[![시연 영상 썸네일](https://github.com/whfodeejr-glitch/arduino_1team/blob/main/IMG_7655.png)](https://youtu.be/-Xb7_nX4Qvw?si=-UC0EP1wMBF6ZZTY)
 
 > 클릭하면 YouTube 영상으로 이동합니다.  
 ---
