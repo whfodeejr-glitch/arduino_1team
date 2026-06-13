@@ -94,7 +94,7 @@
 - 수신된 명령어에 따라 부저가 울리거나 LED 작동
 - 거북목으로 판단되면 부저가 울림
 - 바른자세로 판단되면 LED가 켜짐
-- (회로도 이미지가 있다면 삽입)
+- (https://github.com/whfodeejr-glitch/arduino_1team/blob/main/IMG_7632.png)
 
 ---
 
